@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://placehold.co/800x200/1e40af/ffffff?text=Remove Iran Ads on Miktotik" alt="YasserDivar.ir" width="100%" />
+  <img src="https://placehold.co/600x100/e11d48/ffffff?text=Remove%20Iran%20Ads%20on%20Miktotik%20by%20YasserDivar.ir" alt="YasserDivar.ir"/>
 
   <h1>🚫 Remove Iran Ads on Miktotik</h1>
   <p><strong>یک راه‌حل قدرتمند برای مسدود کردن تبلیغات و ردیاب‌های ایرانی در شبکه (مخصوص روتر میکروتیک)</strong></p>
