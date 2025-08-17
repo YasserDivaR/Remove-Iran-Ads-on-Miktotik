@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://placehold.co/800x200/1e40af/ffffff?text=Remove Iran Ads on Miktotik" alt="Banner" width="100%" />
-  
+  <img src="https://placehold.co/800x200/1e40af/ffffff?text=Remove Iran Ads on Miktotik" alt="YasserDivar.ir" width="100%" />
+
   <h1>🚫 Remove Iran Ads on Miktotik</h1>
   <p><strong>یک راه‌حل قدرتمند برای مسدود کردن تبلیغات و ردیاب‌های ایرانی در شبکه (مخصوص روتر میکروتیک)</strong></p>
   
@@ -121,5 +121,5 @@ add name=ads.midas-network.com type=A address=127.0.0.1 ttl=1w comment="iran-ads
 
 <div align="center">
 <p>ساخته شده با ❤️ برای مردم ایران</p>
-<img src="https://placehold.co/600x100/e11d48/ffffff?text=YasserDivar.ir" alt="YasserDivar.ir.ir" />
+  <img src="https://placehold.co/600x100/e11d48/ffffff?text=YasserDivar.ir" alt="YasserDivar.ir" />
 </div>
