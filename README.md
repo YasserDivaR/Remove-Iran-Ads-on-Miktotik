@@ -42,7 +42,9 @@
 ## 📦 نحوه استفاده
 
 1. به روتر میکروتیک خود وصل شوید (WinBox یا WebFig).
-2. به مسیر زیر بروید:system>>scripts
+2. به مسیر زیر بروید:
+IP → DNS → Static
+
 3. 3. یا مستقیماً در **New Terminal** این اسکریپت را اجرا کنید:
 
 ```ros
@@ -101,6 +103,11 @@ add name=cdn.adtrue.com type=A address=127.0.0.1 ttl=1w comment="iran-ads"
 add name=ads.adtrue.com type=A address=127.0.0.1 ttl=1w comment="iran-ads"
 add name=ads.midas-network.com type=A address=127.0.0.1 ttl=1w comment="iran-ads"
 ```
+اگر می‌خوای همه رو یک‌دفعه حذف کنی:
+```
+/ip dns static remove [find comment="iran-ads"]
+```
+
 # Fork کن → تغییرات اعمال کن → Pull Request بفرست
 
 📬 ارتباط با من :
