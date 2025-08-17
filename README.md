@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://placehold.co/800x200/1e40af/ffffff?text=BlockIRAds+-+مسدود+کننده+تبلیغات+ایرانی" alt="Banner" width="100%" />
+  <img src="https://placehold.co/800x200/1e40af/ffffff?text=Remove Iran Ads on Miktotik" alt="Banner" width="100%" />
   
-  <h1>🚫 BlockIRAds</h1>
+  <h1>🚫 Remove Iran Ads on Miktotik</h1>
   <p><strong>یک راه‌حل قدرتمند برای مسدود کردن تبلیغات و ردیاب‌های ایرانی در شبکه (مخصوص روتر میکروتیک)</strong></p>
   
   <div>
