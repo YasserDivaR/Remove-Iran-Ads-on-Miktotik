@@ -1,0 +1,49 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- پس‌زمینه گرادیان -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <!-- فیلتر شیشه‌ای (frosted glass) -->
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" />
+    </filter>
+  </defs>
+  <rect width="800" height="200" rx="16" ry="16" fill="url(#grad)" />
+
+  <!-- لوگو -->
+  <text x="30" y="68" font-size="48" fill="#fbbf24">🛡️</text>
+
+  <!-- عنوان اصلی (انگلیسی) -->
+  <text x="400" y="90" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="middle">
+    Remove Iran Ads on MikroTik
+  </text>
+
+  <!-- زیرعنوان فارسی با فونت وزیر -->
+  <!-- توجه: فونت وزیر به صورت متنی نمایش داده میشه، اما برای رندر در مرورگر، CDN لازم است -->
+  <text x="400" y="132" font-family="Vazir, Tahoma, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)" text-anchor="middle">
+    مسدود کننده تبلیغات و ردیاب‌های ایرانی در روتر میکروتیک
+  </text>
+
+  <!-- نوار پایینی (با پس‌زمینه نیمه‌شفاف) -->
+  <g transform="translate(400,176)">
+    <!-- گروه مرکزی با تگ‌ها -->
+    <g text-anchor="middle">
+      <!-- پس‌زمینه نوار -->
+      <rect x="-260" y="-18" width="520" height="40" rx="20" fill="rgba(255,255,255,0.2)" filter="url(#blur)" />
+      <rect x="-260" y="-18" width="520" height="40" rx="20" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="1" />
+
+      <!-- تگ‌ها -->
+      <text x="-180" y="8" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="white">Open Source</text>
+      <text x="-90" y="8" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="white">MikroTik</text>
+      <text x="0" y="8" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="white">DNS Blocking</text>
+      <a href="https://YasserDivar.ir" target="_blank">
+        <text x="130" y="8" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#fbbf24">YasserDivar.ir</text>
+      </a>
+    </g>
+  </g>
+
+  <!-- توضیح: فونت "وزیر" در SVG به صورت پیش‌فرض وجود ندارد -->
+  <!-- برای نمایش صحیح، فایل باید در صفحه‌ای با فونت وزیر بارگذاری شود -->
+</svg>
