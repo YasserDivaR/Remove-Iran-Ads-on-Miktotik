@@ -16,12 +16,12 @@
   <text x="30" y="68" font-size="48" fill="#fbbf24">🛡️</text>
 
   <!-- عنوان اصلی (انگلیسی) -->
-  <text x="400" y="70" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="middle">
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="middle">
     Remove Iran Ads on MikroTik
   </text>
 
   <!-- زیرعنوان فارسی -->
-  <text x="400" y="132" font-family="Vazir, Tahoma, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)" text-anchor="middle">
+  <text x="400" y="110" font-family="Vazir, Tahoma, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)" text-anchor="middle">
     مسدود کننده تبلیغات و ردیاب‌های ایرانی در روتر میکروتیک
   </text>
 
@@ -40,6 +40,7 @@
     </g>
   </g>
 </svg>
+
 
 
 
