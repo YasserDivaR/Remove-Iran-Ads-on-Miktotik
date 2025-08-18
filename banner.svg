@@ -26,7 +26,7 @@
   </text>
 
   <!-- نوار پایینی -->
-  <g transform="translate(450,156)">
+  <g transform="translate(440,156)">
     <g text-anchor="middle">
       <!-- پس‌زمینه نوار -->
     <rect x="-260" y="-18" width="450" height="40" rx="20" fill="rgba(255,255,255,0.2)" filter="url(#blur)" />
@@ -40,6 +40,7 @@
     </g>
   </g>
 </svg>
+
 
 
 
