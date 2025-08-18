@@ -20,30 +20,23 @@
     Remove Iran Ads on MikroTik
   </text>
 
-  <!-- زیرعنوان فارسی با فونت وزیر -->
-  <!-- توجه: فونت وزیر به صورت متنی نمایش داده میشه، اما برای رندر در مرورگر، CDN لازم است -->
+  <!-- زیرعنوان فارسی -->
   <text x="400" y="132" font-family="Vazir, Tahoma, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)" text-anchor="middle">
     مسدود کننده تبلیغات و ردیاب‌های ایرانی در روتر میکروتیک
   </text>
 
-  <!-- نوار پایینی (با پس‌زمینه نیمه‌شفاف) -->
+  <!-- نوار پایینی -->
   <g transform="translate(400,176)">
-    <!-- گروه مرکزی با تگ‌ها -->
     <g text-anchor="middle">
       <!-- پس‌زمینه نوار -->
       <rect x="-260" y="-18" width="520" height="40" rx="20" fill="rgba(255,255,255,0.2)" filter="url(#blur)" />
       <rect x="-260" y="-18" width="520" height="40" rx="20" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="1" />
 
-      <!-- تگ‌ها -->
+      <!-- تگ‌ها — همه با استایل یکسان -->
       <text x="-180" y="8" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="white">Open Source</text>
       <text x="-90" y="8" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="white">MikroTik</text>
       <text x="0" y="8" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="white">DNS Blocking</text>
-        <text x="130" y="8" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#white">YasserDivar.ir</text>
-      </a>
+      <text x="130" y="8" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="white">YasserDivar.ir</text>
     </g>
   </g>
-
-  <!-- توضیح: فونت "وزیر" در SVG به صورت پیش‌فرض وجود ندارد -->
-  <!-- برای نمایش صحیح، فایل باید در صفحه‌ای با فونت وزیر بارگذاری شود -->
-
 </svg>
