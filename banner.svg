@@ -29,8 +29,8 @@
   <g transform="translate(400,176)">
     <g text-anchor="middle">
       <!-- پس‌زمینه نوار -->
-      <rect x="-260" y="-18" width="420" height="40" rx="20" fill="rgba(255,255,255,0.2)" filter="url(#blur)" />
-      <rect x="-260" y="-18" width="420" height="40" rx="20" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="1" />
+      <rect x="-260" y="-18" width="460" height="40" rx="20" fill="rgba(255,255,255,0.2)" filter="url(#blur)" />
+      <rect x="-260" y="-18" width="460" height="40" rx="20" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="1" />
 
       <!-- تگ‌ها — همه با استایل یکسان -->
       <text x="-180" y="8" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="white">Open Source</text>
@@ -40,4 +40,5 @@
     </g>
   </g>
 </svg>
+
 
