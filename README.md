@@ -110,7 +110,7 @@ IP → DNS → Static
 
 💬 تلگرام: @yasserdivar
 
-🐦 وبسایت: yasserdivar.ir
+🐦 وبسایت: [yasserdivar.ir](http://yasserdivar.ir/)
 
 
 <div align="center">
