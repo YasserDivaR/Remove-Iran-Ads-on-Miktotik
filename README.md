@@ -2,7 +2,7 @@
 
   <img src="banner.svg" alt="Remove Iran Ads on MikroTik" width="800" />
 </div>
-  <h1>🚫 Remove Iran Ads on Miktotik</h1>
+  <h1>🚫 Remove Iran Ads on MikroTik</h1>
   <p><strong>یک راه‌حل قدرتمند برای مسدود کردن تبلیغات و ردیاب‌های ایرانی در شبکه (مخصوص روتر میکروتیک)</strong></p>
   
   <div>
